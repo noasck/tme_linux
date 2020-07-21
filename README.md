@@ -8,12 +8,13 @@
 
 ## Basic Usage
 
-syntax: http://morphett.info/turing/turing.html
-all necessary notes are given in user interface
+syntax: http://morphett.info/turing/turing.html.
+all: necessary notes are given in user interface
 
 ## Auto-generating graphs and tables
 
 Available by manual using core.py with packages like:
-- pandas
-- graphviz
+- pandas;
+- graphviz;
+
 Passing instructions into ``` command  ``` variable.
